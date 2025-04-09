@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary color in dark mode, slightly brighter for better visibility -->
+    <color name="primary">#FFA726</color> <!-- Lighter Orange -->
+
+    <!-- Variant of primary color for dark mode accents -->
+    <color name="primaryVariant">#F57C00</color>
+
+    <!-- Secondary color for dark mode UI elements -->
+    <color name="secondary">#66BB6A</color> <!-- Softer Green -->
+
+    <!-- Background color of the app in dark mode -->
+    <color name="background">#303030</color> <!-- Dark Gray for reduced eye strain -->
+
+    <!-- Surface color for cards and other elevated UI elements in dark mode -->
+    <color name="surface">#424242</color> <!-- Slightly lighter gray -->
+
+    <!-- Primary text color in dark mode for high contrast readability -->
+    <color name="textPrimary">#FFFFFF</color> <!-- White -->
+
+    <!-- Secondary text color in dark mode for subtitles and less prominent text -->
+    <color name="textSecondary">#BDBDBD</color> <!-- Light Gray -->
+
+    <!-- Error color in dark mode, softened to reduce strain on eyes -->
+    <color name="error">#EF5350</color> <!-- Softer Red -->
+
+    <!-- Success color in dark mode for correct answers and achievements -->
+    <color name="success">#4CAF50</color> <!-- Bright Green -->
+
+    <!-- Warning color in dark mode for cautionary messages or hints -->
+    <color name="warning">#FFB74D</color> <!-- Soft Amber -->
+
+</resources>

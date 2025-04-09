@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary color used for main UI elements like buttons, highlights -->
+    <color name="primary">#FF9800</color> <!-- Bright Orange -->
+
+    <!-- A slightly darker shade of primary color for accents and variations -->
+    <color name="primaryVariant">#F57C00</color>
+
+    <!-- Secondary color used for supporting UI elements like toggles, links -->
+    <color name="secondary">#4CAF50</color> <!-- Green -->
+
+    <!-- Background color of the app for light mode -->
+    <color name="background">#FFFFFF</color> <!-- Pure White for a clean look -->
+
+    <!-- Surface color used for cards, panels, and other raised UI components -->
+    <color name="surface">#F5F5F5</color> <!-- Light Gray -->
+
+    <!-- Primary text color for readability against light backgrounds -->
+    <color name="textPrimary">#212121</color> <!-- Dark Gray -->
+
+    <!-- Secondary text color for subtitles and less prominent text -->
+    <color name="textSecondary">#757575</color> <!-- Medium Gray -->
+
+    <!-- Color used to indicate errors, such as incorrect answers or validation failures -->
+    <color name="error">#D32F2F</color> <!-- Red -->
+
+    <!-- Color used to indicate success, such as correct answers or achievements -->
+    <color name="success">#388E3C</color> <!-- Dark Green -->
+
+    <!-- Color used to indicate warnings, like hints or cautionary messages -->
+    <color name="warning">#FFA000</color> <!-- Amber -->
+
+</resources>
