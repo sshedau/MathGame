@@ -18,8 +18,10 @@ This is a simple Android math quiz game built with **Kotlin**. It includes multi
 
 ## 📸 Screenshots
 
-*(Add screenshots of your game UI here once it's ready)*  
-Just drag and drop images in this section, or link from your GitHub repo.
+![home_page](https://github.com/user-attachments/assets/608d5f82-976f-49a0-8ea1-20321fc4f885)
+![question_page](https://github.com/user-attachments/assets/cbf15a4c-4007-4c70-ba17-978f5ac855e3)
+![result_page](https://github.com/user-attachments/assets/ded51500-edd5-46bc-b218-aa40d58ed6f5)
+
 
 ---
 
